@@ -1,0 +1,1 @@
+{"dependencies":{"postal-mime":"^2.4.3"},"description":"MailSentry worker: receive email via Cloudflare Email Routing, summarize with an open-weight LLM (Workers AI), push the digest to WeCom/WeChat.","devDependencies":{"wrangler":"^3.0.0"},"license":"MIT","main":"src/index.js","name":"mail-to-wx","scripts":{"deploy":"wrangler deploy","dev":"wrangler dev"},"version":"1.0.0"}
